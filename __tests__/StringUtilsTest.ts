@@ -1,4 +1,4 @@
-import fromTimeInDecimal from "../src/StringUtils";
+import { fromTimeInDecimal } from "../src/StringUtils";
 
 describe("passando 0.0153 retorna 12321", () => {
   test("input 0.0158 retorna => 00:00:57", () => {

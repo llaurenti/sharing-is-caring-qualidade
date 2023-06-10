@@ -1,9 +1,9 @@
-export default (time: string, showSec: boolean) => {
+export const fromTimeInDecimal = (time: string, showSec: boolean) => {
   let retorno = new String();
-  let auxHoras = time;
-  let horas = "0";
-  let minutos = "0";
-  let segundos = "0";
+  let auxHoras: string = time;
+  let horas: string = "0";
+  let minutos: string = "0";
+  let segundos: string = "0";
 
   if (auxHoras.indexOf(".") > 0) {
     let auxMinutos = auxHoras.substring(
@@ -19,9 +19,6 @@ export default (time: string, showSec: boolean) => {
     const nf = new Intl.NumberFormat("pt-BR", {
       maximumFractionDigits: 0,
     });
-    // NumberFormat nf = NumberFormat.getNumberInstance();
-    // nf.setMinimumFractionDigits(2);
-    // nf.setMaximumFractionDigits(0);
     segundos = nf.format(Number.parseFloat(segundos));
     if (minutos.indexOf(".") > 0) {
       minutos = minutos.substring(0, minutos.indexOf("."));
