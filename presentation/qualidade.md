@@ -24,3 +24,9 @@
    - feedback rápido
    - não tentar prever tão longe no futuro
    - ciclos iterativos de melhoria contínua
+
+Referências:
+
+- [Fabio Akita](https://www.youtube.com/@Akitando) - Melhor youtuber que eu conheço
+- Uncle Bob (Autor [Clean Code](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675))
+- [Martin Fowler](https://martinfowler.com/) (Escritor de diversos livros e hoje mantém seu blog)

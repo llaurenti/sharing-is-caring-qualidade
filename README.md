@@ -9,6 +9,7 @@
     C: Testes unitários; SRP; Contexto autoexplicativo sem depender de outros módulos;
   - Small Steps
 - DRY (Don't Repeate Yourself)
+  // TODO incluir link de exemplo OU exemplo do PragProg
 - KISS
 - SOLID
 - YAGNI
