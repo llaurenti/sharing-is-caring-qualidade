@@ -10,29 +10,17 @@
 - escalável
 - usavel
 
-## Princípios
-
-- DRY (Don't Repeate Yourself)
-  - Alta coesão, baixo acoplamento
-- KISS (Keep it Simple, Stupid)
-  - Simples e direto
-- YAGNI (You ain't gonna need it)
-  - Não mantenha software morto
-- SOLID
-
-## Tudo isso é pautado na ideia de que: O futuro é imprevisível, requisitos mudam, o mercado muda
-
 1. [Clean Code](clean-code.md)
 2. Code Review
-   [Ship, show, ask](https://martinfowler.com/articles/ship-show-ask.html)
+   - [Ship, show, ask](https://martinfowler.com/articles/ship-show-ask.html)
 3. Ferramentas de anáise estática
-   - SonarLint && SonarQube
+   - SonarLint && SonarQube (CI)
    - Snyk
-4. Testes automatizados
+4. [Testes automatizados](testes.md)
 5. CI/CD
    - código que demora pra ser integrado quebra mais
    - ciclos de feedback rápido
-6. Metodologias ágeis (filosofia por trás)
+6. Metodologias ágeis
    - feedback rápido
    - não tentar prever tão longe no futuro
    - ciclos iterativos de melhoria contínua
