@@ -18,7 +18,9 @@
 
 ### [Então... o que é qualidade? Como obtê-la?](presentation/qualidade.md)
 
-Referências:
+---
+
+### Referências:
 
 - [Fabio Akita](https://www.youtube.com/@Akitando) - Melhor youtuber que eu conheço
 - Uncle Bob (Autor [Clean Code](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675))
