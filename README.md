@@ -7,12 +7,11 @@
 - Dividir para conquistar
   - Encare cada trecho individual de código como um sistema independente
     C: Testes unitários; SRP; Contexto autoexplicativo sem depender de outros módulos;
-  - Small Steps
+  - Small Steps: melhor caminhar a passos curtos com uma grande certeza de que está subindo código de qualidade do que tentar fazer muita coisa de uma vez só
 - DRY (Don't Repeate Yourself)
-  // TODO incluir link de exemplo OU exemplo do PragProg
-- KISS
+- KISS (Keep It Simple, Stupid!)
 - SOLID
-- YAGNI
+- YAGNI (You Ain't Gonna Need It)
 
 ## Tudo isso é pautado na ideia de que: O futuro é imprevisível; requisitos mudam; o mercado muda; amanhã você pode saber mais que hoje!
 
